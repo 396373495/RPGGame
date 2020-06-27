@@ -7,3 +7,5 @@
 6.26日提交了GUI 的开始界面————包括Homepage.java(主界面)  Occupationpage.java(职业选择)  Seletpage.java(设置界面)  Music.java[音乐的开启判断(applet添加的音乐没有声音，还在找原因)]  
 界面的跳转那里因为测试的原因修改了部分，会有报错,比如跳转方法Occupationpage.main();  main()报错，把Occupationpage的main方法内的值去掉就可以了。  
 提交了相关图片在pic中
+
+6.27添加了page层，大体上界面完成，缺少计算和少许选择判断传递
